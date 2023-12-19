@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KLAD02_Country</string>
+    <string name="none">Vui lòng lựa chọn quốc gia</string>
+    <string name="select">Quốc gia lựa chọn là %1$s</string>
+</resources>

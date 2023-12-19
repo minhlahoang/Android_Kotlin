@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KLAD02_Country</string>
+    <string name="none">Please select country!</string>
+    <string name="select">Select Country is %1$s</string>
+    <string-array name="country_list">
+        <item>Brunei</item>
+        <item>Cambodia</item>
+        <item>Malaysia</item>
+        <item>Myanmar</item>
+        <item>Vietnam</item>
+    </string-array>
+</resources>
